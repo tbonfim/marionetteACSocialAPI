@@ -1,0 +1,26 @@
+{
+  "name": "marionetteTraining",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "tbonfim <thiago.bonfim@bloomingdales.com>"
+  ],
+  "license": "BSD-2-Clause",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "backbone.marionette": "marionette#^2.4.5"
+  },
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "requirejs": "^2.2.0",
+    "text": "requirejs-text#^2.0.14"
+  }
+}
